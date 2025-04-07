@@ -254,6 +254,6 @@ end
 
 bypass()
 
-SecureCall(warn,"//: Asteria Loaded")
+SecureCall(warn,"Done")
 
 Maid.Cleanup()
